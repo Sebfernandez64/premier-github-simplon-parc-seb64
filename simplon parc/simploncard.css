@@ -1,0 +1,54 @@
+.bloc-image{   
+border: solid 4px;
+border-color: #b0215e;
+margin-bottom: 20px;
+padding: 20px;
+background-image: url(photo\ parc.avif);
+background-repeat: no-repeat;
+height: 400px;
+display: flex;
+align-items: flex-end;
+}
+
+
+
+    .bloc-adresse{
+        color: rgb(254, 254, 255);
+        size-adjust: 200px;
+    border:solid 4px;
+    text-align: center;
+    padding: 40px;
+    background-color: rgb(244, 249, 242);
+        width: 50%;
+        border-radius: 10px;    
+    }
+    a{text-decoration-line:none;}
+
+.buttonstyle{
+    border-style:solid 4px ;
+    border-color: #0b0a0b;
+    border-radius: 10px;
+    width:30%;
+    padding: 10px;
+    background-color: #b0215e;
+
+}
+
+.buttonstyle:hover{
+    border-style:solid 4px ;
+    border-color: #0b0a0b;
+    border-radius: 10px;
+    width:30%;
+    padding: 10px;
+    background-color: #f3f0f1;}
+    
+
+footer{text-align: center;}
+
+    h2{
+                margin-block-end: 20px;
+    font-size: 24px;
+font-weight: 700;}
+    
+        
+        
